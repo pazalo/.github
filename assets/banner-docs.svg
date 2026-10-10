@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img">
+  <defs>
+    <linearGradient id="bgdocs" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2A2118"/>
+      <stop offset="60%" stop-color="#1E1711"/>
+      <stop offset="100%" stop-color="#16100B"/>
+    </linearGradient>
+    <radialGradient id="bldocs" cx="50%" cy="50%">
+      <stop offset="30%" stop-color="#F0522C" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#F0522C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="292" rx="24" fill="url(#bgdocs)"/>
+  <ellipse cx="180" cy="286" rx="420" ry="240" fill="url(#bldocs)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="290.5" rx="23.25" fill="none" stroke="#4A3A2A" stroke-width="1.5"/>
+
+  <defs><radialGradient id="g6470" cx="50%" cy="50%">
+         <stop offset="35%" stop-color="#F0522C" stop-opacity="0.2"/>
+         <stop offset="100%" stop-color="#F0522C" stop-opacity="0"/>
+       </radialGradient></defs>
+       <circle cx="116" cy="122" r="119.6" fill="url(#g6470)"/><g transform="translate(64 70) scale(0.52)"><rect width="200" height="200" rx="44" fill="#16100B"/><path d="M100,22l-82,106l38,30l44,-62" fill="#FFC24D"/><path d="M100,22l82,106l-38,30l-44,-62" fill="#F0522C"/></g>
+
+  <text x="210" y="118" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, Menlo, Consolas, monospace" font-size="50" font-weight="700" letter-spacing="-1.2" fill="#F7F3EE" text-anchor="start">pazalo/docs</text>
+  <text x="212" y="148" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" letter-spacing="1.9" fill="#FFC24D" text-anchor="start">THE DOCUMENTATION</text>
+  <text x="212" y="190" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="24" font-weight="500" letter-spacing="0" fill="#F7F3EE" text-anchor="start" opacity="0.85">The reference material for the workspace.</text>
+  <g transform="translate(212 216)"><g><rect x="0" y="0" width="133.86" height="34" rx="17" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="66.93" y="22.04" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">6,626 documents</text></g><g><rect x="145.86" y="0" width="88.63999999999999" height="34" rx="17" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="190.18" y="22.04" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">11 mirrors</text></g></g>
+</svg>

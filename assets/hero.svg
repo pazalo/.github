@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="396" viewBox="0 0 1200 396" role="img">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2A2118"/>
+      <stop offset="55%" stop-color="#1E1711"/>
+      <stop offset="100%" stop-color="#16100B"/>
+    </linearGradient>
+    <radialGradient id="bloom" cx="50%" cy="50%">
+      <stop offset="30%" stop-color="#F0522C" stop-opacity="0.17"/>
+      <stop offset="100%" stop-color="#F0522C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bloom2" cx="50%" cy="50%">
+      <stop offset="30%" stop-color="#FFC24D" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#FFC24D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="396" rx="28" fill="url(#sweep)"/>
+  <ellipse cx="240" cy="376" rx="420" ry="250" fill="url(#bloom)"/>
+  <ellipse cx="1080" cy="60" rx="400" ry="240" fill="url(#bloom2)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="394.5" rx="27.25" fill="none" stroke="#3A2E22" stroke-width="1.5"/>
+
+  <defs><radialGradient id="g76108" cx="50%" cy="50%">
+         <stop offset="35%" stop-color="#F0522C" stop-opacity="0.25"/>
+         <stop offset="100%" stop-color="#F0522C" stop-opacity="0"/>
+       </radialGradient></defs>
+       <circle cx="152" cy="184" r="174.79999999999998" fill="url(#g76108)"/><g transform="translate(76 108) scale(0.76)"><rect width="200" height="200" rx="44" fill="#16100B"/><path d="M100,22l-82,106l38,30l44,-62" fill="#FFC24D"/><path d="M100,22l82,106l-38,30l-44,-62" fill="#F0522C"/></g>
+
+  <text x="280" y="182" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="92" font-weight="700" letter-spacing="-2.4" fill="#F7F3EE" text-anchor="start">Pazalo</text>
+  <text x="283" y="226" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="27" font-weight="500" letter-spacing="0" fill="#F7F3EE" text-anchor="start" opacity="0.9">The commerce platform we build on, and host for others.</text>
+  <text x="283" y="262" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="21" font-weight="400" letter-spacing="0" fill="#B9A794" text-anchor="start">Control plane, back office, storefront and command line — one fleet.</text>
+  <g transform="translate(0 292)"><g><rect x="280" y="0" width="181.78999999999994" height="36" rx="18" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="370.895" y="23.22" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14.5" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">Two containers per site</text></g><g><rect x="475.78999999999996" y="0" width="171.34999999999997" height="36" rx="18" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="561.4649999999999" y="23.22" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14.5" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">No Saleor dependency</text></g><g><rect x="661.1399999999999" y="0" width="155.545" height="36" rx="18" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="738.9124999999999" y="23.22" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14.5" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">Contract committed</text></g></g>
+</svg>

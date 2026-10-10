@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img">
+  <defs>
+    <linearGradient id="bgskills" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2A2118"/>
+      <stop offset="60%" stop-color="#1E1711"/>
+      <stop offset="100%" stop-color="#16100B"/>
+    </linearGradient>
+    <radialGradient id="blskills" cx="50%" cy="50%">
+      <stop offset="30%" stop-color="#F0522C" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#F0522C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="292" rx="24" fill="url(#bgskills)"/>
+  <ellipse cx="180" cy="286" rx="420" ry="240" fill="url(#blskills)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="290.5" rx="23.25" fill="none" stroke="#4A3A2A" stroke-width="1.5"/>
+
+  <defs><radialGradient id="g6470" cx="50%" cy="50%">
+         <stop offset="35%" stop-color="#F0522C" stop-opacity="0.2"/>
+         <stop offset="100%" stop-color="#F0522C" stop-opacity="0"/>
+       </radialGradient></defs>
+       <circle cx="116" cy="122" r="119.6" fill="url(#g6470)"/><g transform="translate(64 70) scale(0.52)"><rect width="200" height="200" rx="44" fill="#16100B"/><path d="M100,22l-82,106l38,30l44,-62" fill="#FFC24D"/><path d="M100,22l82,106l-38,30l-44,-62" fill="#F0522C"/></g>
+
+  <text x="210" y="118" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, Menlo, Consolas, monospace" font-size="50" font-weight="700" letter-spacing="-1.2" fill="#F7F3EE" text-anchor="start">pazalo/skills</text>
+  <text x="212" y="148" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" letter-spacing="1.9" fill="#FFC24D" text-anchor="start">THE AGENT SKILLS</text>
+  <text x="212" y="190" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="24" font-weight="500" letter-spacing="0" fill="#F7F3EE" text-anchor="start" opacity="0.85">The decisions every repository shares.</text>
+  <g transform="translate(212 216)"><g><rect x="0" y="0" width="70.72" height="34" rx="17" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="35.36" y="22.04" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">6 skills</text></g><g><rect x="82.72" y="0" width="144.92000000000002" height="34" rx="17" fill="#FFC24D" fill-opacity="0.13" stroke="#FFC24D" stroke-opacity="0.38" stroke-width="1.25"/><text x="155.18" y="22.04" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" letter-spacing="0" fill="#FFC24D" text-anchor="middle">Zero dependencies</text></g></g>
+</svg>
